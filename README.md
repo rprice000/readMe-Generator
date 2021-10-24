@@ -30,9 +30,7 @@ All necessary files are located with in the Develop folder of this repo.
 # Links
 
 - GitHub Repository Link
-
-
-- Website Link
+https://github.com/rprice000/readme-generator
 
 - Screencastify Link
 https://watch.screencastify.com/v/O9GbkafaDX1CHYGncNkx
